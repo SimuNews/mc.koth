@@ -1,0 +1,11 @@
+name: stvc_tests
+
+dependencies:
+  objd:
+
+dev_dependencies:
+  build_runner:
+  objd_gen:
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'

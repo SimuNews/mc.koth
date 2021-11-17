@@ -1,0 +1,12 @@
+// **************************************************************************
+// ProjectGenerator
+// **************************************************************************
+
+void main([List<String> args = const []]) => createProject(
+      Project(
+        name: 'stvcTests',
+        generate: starter,
+        target: '../compiled/',
+      ),
+      args,
+    );

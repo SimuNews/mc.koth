@@ -1,0 +1,4 @@
+name: CustomTools
+description: A custom tools library for objD by SimuNews Softwares
+dependencies:
+  objd:
